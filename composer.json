@@ -1,16 +1,16 @@
 {
-    "name": "jjaffeux/postmark-inbound-php",
+    "name": "jstenquist/postmark-inbound-php",
     "type": "library",
     "description": "Postmark Inbound PHP Wrapper",
-    "version": "3.0.1",
-    "homepage": "https://github.com/jjaffeux/postmark-inbound-php",
+    "version": "1.0.1",
+    "homepage": "https://github.com/jstenquist/postmark-inbound-php",
     "keywords": ["postmark", "inbound", "wrapper", "api", "mails"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Joffrey Jaffeux",
-            "email": "j.jaffeux@gmail.com",
-            "homepage": "http://www.twitter.com/joffreyjaffeux"
+            "name": "Jared Stenquist",
+            "email": "jared@stenquist.com.com",
+            "homepage": "http://www.twitter.com/jaredstenquist"
         }
     ],
     "require": {
