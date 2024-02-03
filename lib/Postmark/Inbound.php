@@ -2,7 +2,7 @@
 
 namespace Postmark;
 
-include('Exception.php');
+include('InboundException.php');
 include('Attachments.php');
 include('Attachment.php');
 
